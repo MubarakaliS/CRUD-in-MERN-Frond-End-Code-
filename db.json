@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mubarak 07",
+      "username": "Mubarak",
+      "email": "mubaraktechie07@gmail.com",
+      "phone": "6385522040",
+      "website": "hildegard.org"
+    },
+    {
+      "id": "2",
+      "name": "MJ",
+      "username": "Ali",
+      "email": "mubaraktechie@gmail.com",
+      "phone": "6385522049",
+      "website": "hildegards.org"
+    },
+    {
+      "id": "8bd4",
+      "name": "Jai sankar",
+      "email": "sankar01@gmail.com",
+      "phone": "83493745959"
+    }
+  ]
+}
